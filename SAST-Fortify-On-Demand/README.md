@@ -9,6 +9,6 @@ SAST AND ITS TOOLS
 
 Implementing Fortify On Demand
 
-* Login to URL : https://github.com/
+* Login to URL : https://my.opentext.com/home
 * Creating a account using your personal e-mail account.
 * Access the Fortify application using this URL: https://home.saas.microfocus.com/myaccount/#/myProducts
