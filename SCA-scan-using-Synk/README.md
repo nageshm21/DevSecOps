@@ -1,11 +1,27 @@
-SCA AND ITS TOOLS 
+SCA (Software Composition Analysis) AND ITS TOOLS 
 
-* SBOM stands for "Software Bill of Materials" is a list of all the software components and their versions that are included in a particular software application or system. The SBOM includes both the first-party components that were developed by the software vendor and the third-party components that were used to build the application. The purpose of an SBOM is to provide a complete and accurate inventory of all the components that make up a software application or system. SBOMs are an important part of software composition analysis (SCA) and are increasingly being used in the software development and maintenance process to ensure the security and compliance of applications. 
-* Software Composition Analysis(SCA) scan is a process of identifying and analyzing the third-party libraries, frameworks, and other components that are used in a software application. The goal of SCA is to identify potential security vulnerabilities, licensing issues, and other risks associated with the use of third-party components in an application. 
-* Software Composition Analysis(SCA) scan is a process of identifying and analyzing the third-party libraries, frameworks, and other components that are used in a software application. The goal of SCA is to identify potential security vulnerabilities, licensing issues, and other risks associated with the use of third-party components in an application.
-* It involves analyzing the source code of an application to identify the third-party components that it uses, and then evaluating these components for security vulnerabilities, licensing issues, and other risks. The results of the SCA process can be used to identify and fix potential problems before the applicatiovis released, or to assess the security and compliance of an existing application. 
-* SCA is an important aspect of software development and maintenance, as it helps to ensure that applications are secure and compliant with industry standards and regulations. It is especially important in large organizations where multiple developers may be working on different parts of the same application, or where applications are built using a variety of third-party components
+SCA (Software Composition Analysis) :
+•	SBOM (Software Bill of Materials): A list of all software components (including their versions) used in an application. It includes both vendor-supplied and third-party components.
+        o	Purpose: To provide a complete inventory for security and compliance purposes.
+        o	SBOMs are a key part of SCA.
 
+•	What is SCA?
+Software Composition Analysis (SCA) is the process of identifying and analysing third-party libraries, frameworks, and other components in a software application.
+
+•	Goals of SCA:
+    o	Detect security vulnerabilities
+    o	Find licensing issues
+    o	Uncover other risks from third-party use
+
+•	How It Works:
+    o	Analyses the source code to detect third-party components.
+    o	Evaluates these components for vulnerabilities and compliance issues.
+    o	Helps identify and resolve issues before deployment or to assess existing applications.
+
+•	Why SCA is Important:
+    o	Ensures applications are secure and industry-compliant.
+    o	Crucial for large teams or applications with many third-party dependencies.
+    
 SCA Tools: 
 
 * Commercial SCA tools are Synk, Veracode SCA, BlackDuck. All these tools can be integrated in CI/CD platforms

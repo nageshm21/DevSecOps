@@ -1,7 +1,25 @@
-SAST AND ITS TOOLS
- * SAST or Static Application Security Testing is a type of security testing that involves analyzing the source code of a software application to identify security vulnerabilities. SAST is typically performed during the development phase of an application, before it is deployed.
- * SAST tools are designed to analyze source code for known vulnerabilities and security weaknesses. They can also identify areas of the code that may be prone to security issues, such as code that is difficult to maintain or understand.
- * SAST tools typically operate by scanning the source code of an application and looking for patterns or specific vulnerabilities. The results of a SAST scan can be used to identify and fix vulnerabilities before an application is deployed, which can help to improve the overall security of the application.
+SCA (Software Composition Analysis) :
+•	SBOM (Software Bill of Materials): A list of all software components (including their versions) used in an application. It includes both vendor-supplied and third-party components.
+        o	Purpose: To provide a complete inventory for security and compliance purposes.
+        o	SBOMs are a key part of SCA.
+
+•	What is SCA?
+Software Composition Analysis (SCA) is the process of identifying and analysing third-party libraries, frameworks, and other components in a software application.
+
+•	Goals of SCA:
+    o	Detect security vulnerabilities
+    o	Find licensing issues
+    o	Uncover other risks from third-party use
+
+•	How It Works:
+    o	Analyses the source code to detect third-party components.
+    o	Evaluates these components for vulnerabilities and compliance issues.
+    o	Helps identify and resolve issues before deployment or to assess existing applications.
+
+•	Why SCA is Important:
+    o	Ensures applications are secure and industry-compliant.
+    o	Crucial for large teams or applications with many third-party dependencies.
+
 
 SAST Tools 
 
