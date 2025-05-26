@@ -17,3 +17,4 @@ Implementing Fortify On Demand
 
 * Login to URL : https://snyk.io/ 
 * Creating a account using your personal e-mail account or your personal GitHub account or Azur AD or Docker ID.
+* We are using the EasyBuggy vulnerable application. Here is the repo link: https://github.com/nageshm21/easybuggy-vulnerable-application
