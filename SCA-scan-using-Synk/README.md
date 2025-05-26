@@ -11,8 +11,6 @@ SCA Tools:
 * Commercial SCA tools are Synk, Veracode SCA, BlackDuck. All these tools can be integrated in CI/CD platforms
 * Free/Open source SCA tools are OWASP Dependency check, Veracode
 
-
-
 Implementing Fortify On Demand
 
 * Login to URL : https://snyk.io/ 
