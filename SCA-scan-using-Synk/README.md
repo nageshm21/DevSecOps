@@ -16,4 +16,4 @@ SCA Tools:
 Implementing Fortify On Demand
 
 * Login to URL : https://snyk.io/ 
-* Creating a account using your personal e-mail account or your personal GitHub account.
+* Creating a account using your personal e-mail account or your personal GitHub account or Azur AD or Docker ID.
