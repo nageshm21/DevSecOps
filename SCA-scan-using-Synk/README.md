@@ -6,6 +6,13 @@ SCA AND ITS TOOLS
 * It involves analyzing the source code of an application to identify the third-party components that it uses, and then evaluating these components for security vulnerabilities, licensing issues, and other risks. The results of the SCA process can be used to identify and fix potential problems before the applicatiovis released, or to assess the security and compliance of an existing application. 
 * SCA is an important aspect of software development and maintenance, as it helps to ensure that applications are secure and compliant with industry standards and regulations. It is especially important in large organizations where multiple developers may be working on different parts of the same application, or where applications are built using a variety of third-party components
 
+SCA Tools: 
+
+* Commercial SCA tools are Synk, Veracode SCA, BlackDuck. All these tools can be integrated in CI/CD platforms
+* Free/Open source SCA tools are OWASP Dependency check, Veracode
+
+
+
 Implementing Fortify On Demand
 
 * Login to URL : https://my.opentext.com/home
