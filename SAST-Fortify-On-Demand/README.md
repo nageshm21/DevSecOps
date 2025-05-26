@@ -5,12 +5,12 @@ SAST Summary
 •	Definition: SAST involves analyzing the source code of a software application to detect security vulnerabilities. It is done during development, before deployment.
 
 •	Purpose:    
-    o	Detect known vulnerabilities and weaknesses in the code
-    o	Identify risky code patterns, such as code that's hard to maintain or understand
+    *	Detect known vulnerabilities and weaknesses in the code
+    *	Identify risky code patterns, such as code that's hard to maintain or understand
 
 •	How It Works:
-    o	Scans the source code for specific patterns or vulnerabilities
-    o	Helps identify and fix issues early, improving the application’s overall security
+    *	Scans the source code for specific patterns or vulnerabilities
+    *	Helps identify and fix issues early, improving the application’s overall security
 
 SAST Tools 
 
