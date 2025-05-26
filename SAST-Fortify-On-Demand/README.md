@@ -11,3 +11,4 @@ Implementing Fortify On Demand
 
 * Login to URL : https://github.com/
 * Creating a account using your personal e-mail account.
+* Access the Fortify application using this URL: https://home.saas.microfocus.com/myaccount/#/myProducts
