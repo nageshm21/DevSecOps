@@ -1,25 +1,16 @@
-SCA (Software Composition Analysis) :
-•	SBOM (Software Bill of Materials): A list of all software components (including their versions) used in an application. It includes both vendor-supplied and third-party components.
-        o	Purpose: To provide a complete inventory for security and compliance purposes.
-        o	SBOMs are a key part of SCA.
+SAST (Static Application Security Testing) and its tools:
 
-•	What is SCA?
-Software Composition Analysis (SCA) is the process of identifying and analysing third-party libraries, frameworks, and other components in a software application.
+SAST Summary
 
-•	Goals of SCA:
-    o	Detect security vulnerabilities
-    o	Find licensing issues
-    o	Uncover other risks from third-party use
+•	Definition: SAST involves analyzing the source code of a software application to detect security vulnerabilities. It is done during development, before deployment.
+
+•	Purpose:    
+    o	Detect known vulnerabilities and weaknesses in the code
+    o	Identify risky code patterns, such as code that's hard to maintain or understand
 
 •	How It Works:
-    o	Analyses the source code to detect third-party components.
-    o	Evaluates these components for vulnerabilities and compliance issues.
-    o	Helps identify and resolve issues before deployment or to assess existing applications.
-
-•	Why SCA is Important:
-    o	Ensures applications are secure and industry-compliant.
-    o	Crucial for large teams or applications with many third-party dependencies.
-
+    o	Scans the source code for specific patterns or vulnerabilities
+    o	Helps identify and fix issues early, improving the application’s overall security
 
 SAST Tools 
 
