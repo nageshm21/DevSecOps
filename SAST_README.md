@@ -25,4 +25,3 @@ Implementing Fortify On Demand
 * Creating a account using your personal e-mail account.
 * Access the Fortify application using this URL: https://home.saas.microfocus.com/myaccount/#/myProducts
 * We are using the EasyBuggy vulnerable application. Here is the repo link: https://github.com/nageshm21/easybuggy-vulnerable-application
-
